@@ -1,5 +1,10 @@
 body{
-    background-color: #1F2937;
+    /* background-color: #1F2937; */
+    background-color: #1f1f1f;
+}
+
+.bg-color-gray-ch{
+    background-color: #1f1f1f;
 }
 
 .police-montserrat{

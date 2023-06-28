@@ -14,6 +14,22 @@ body{
     font-family: 'Bebas Neue', sans-serif;
  }
 
+ .police-roboto{
+    font-family: 'Roboto', sans-serif;
+ }
+
+ .police-lato{
+    font-family: 'Lato', sans-serif;
+ }
+
+ .police-open-sans{
+    font-family: 'Open Sans', sans-serif;
+ }
+
+
+
+
+
  .bordure-ma-photo{
     border-style: solid;
   border-width: 2px;
